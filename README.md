@@ -13,9 +13,6 @@ Welcome to ImagineTales, an innovative project designed to spark creativity and 
 
 - Quiz for Comprehension: Once the story reaches its conclusion, a "Generate Quiz" button appears. This optional quiz is designed to test comprehension and ensure that the child has fully grasped the story's events and morals. It's a fun and educational way to reinforce the material.
 
-# Empowering Creativity and Learning
-ImagineTales is more than just a storytelling tool; it's a gateway to enhancing creativity, improving reading comprehension, and making learning an enjoyable journey. By offering children control over their narrative and challenging them with comprehension quizzes, we're fostering a love for reading and storytelling that will last a lifetime.
-
 
 # Future Work
 In our ongoing efforts to enhance ImagineTales, a key focus will be on significantly improving the user interface, acknowledging its current simplicity and the need for a more engaging, visually appealing, and intuitive design. Additionally, we are committed to refining the backend codebase, aiming for increased efficiency, scalability, and professional-grade quality. These advancements are geared towards delivering a more immersive and seamless experience for our young users, fostering their creativity and learning in even more impactful ways.
