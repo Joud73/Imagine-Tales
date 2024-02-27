@@ -1,5 +1,5 @@
-# StoryBuilder: Ignite Creativity in Children
-Welcome to StoryBuilder, an innovative platform designed to spark creativity and enhance reading comprehension in children. Powered by the ChatGPT API and built with Streamlit, StoryBuilder offers a unique and interactive way for children to craft their own stories by making simple choices, encouraging them to dive into the realms of their imagination.
+# ImagineTales: Ignite Creativity in Children
+Welcome to ImagineTales, an innovative project designed to spark creativity and enhance reading comprehension in children. Powered by the ChatGPT API and built with Streamlit, StoryBuilder offers a unique and interactive way for children to craft their own stories by making simple choices, encouraging them to dive into the realms of their imagination.
 
 # Features
 
@@ -14,8 +14,8 @@ Welcome to StoryBuilder, an innovative platform designed to spark creativity and
 - Quiz for Comprehension: Once the story reaches its conclusion, a "Generate Quiz" button appears. This optional quiz is designed to test comprehension and ensure that the child has fully grasped the story's events and morals. It's a fun and educational way to reinforce the material.
 
 # Empowering Creativity and Learning
-StoryBuilder is more than just a storytelling tool; it's a gateway to enhancing creativity, improving reading comprehension, and making learning an enjoyable journey. By offering children control over their narrative and challenging them with comprehension quizzes, we're fostering a love for reading and storytelling that will last a lifetime.
+ImagineTales is more than just a storytelling tool; it's a gateway to enhancing creativity, improving reading comprehension, and making learning an enjoyable journey. By offering children control over their narrative and challenging them with comprehension quizzes, we're fostering a love for reading and storytelling that will last a lifetime.
 
 
 # Future Work
-In our ongoing efforts to enhance StoryBuilder, a key focus will be on significantly improving the user interface, acknowledging its current simplicity and the need for a more engaging, visually appealing, and intuitive design. Additionally, we are committed to refining the backend codebase, aiming for increased efficiency, scalability, and professional-grade quality. These advancements are geared towards delivering a more immersive and seamless experience for our young users, fostering their creativity and learning in even more impactful ways.
+In our ongoing efforts to enhance ImagineTales, a key focus will be on significantly improving the user interface, acknowledging its current simplicity and the need for a more engaging, visually appealing, and intuitive design. Additionally, we are committed to refining the backend codebase, aiming for increased efficiency, scalability, and professional-grade quality. These advancements are geared towards delivering a more immersive and seamless experience for our young users, fostering their creativity and learning in even more impactful ways.
